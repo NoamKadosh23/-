@@ -1,0 +1,5 @@
+{
+  "name": "Payslip Analyzer Bot",
+  "description": "An interactive bot that analyzes an uploaded Israeli payslip image, explains its components, and quizzes the user to enhance their financial literacy.",
+  "requestFramePermissions": []
+}
