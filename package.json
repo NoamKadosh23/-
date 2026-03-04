@@ -1,5 +1,5 @@
 {
-  "name": "payslip-analyzer-bot",
+  "name": "216654822---בוט-קורא-תלושים---נעם-קדוש---332136340,-מרום-בציר---216152595,-יהונתן-עדה",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,8 @@
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
-    "@google/genai": "^1.21.0"
+    "@google/genai": "^1.21.0",
+    "pdfjs-dist": "4.4.168"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",

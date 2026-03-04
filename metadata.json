@@ -1,5 +1,7 @@
 {
-  "name": "Payslip Analyzer Bot",
-  "description": "An interactive bot that analyzes an uploaded Israeli payslip image, explains its components, and quizzes the user to enhance their financial literacy.",
-  "requestFramePermissions": []
+  "name": "216654822 - בוט קורא תלושים - נעם קדוש - 332136340, מרום בציר - 216152595, יהונתן עדה",
+  "description": "בוט קורא תלושים - כלכלה - פרויקט",
+  "requestFramePermissions": [
+    "camera"
+  ]
 }
